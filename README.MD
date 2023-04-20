@@ -29,3 +29,17 @@ JWT_LIFETIME=
 ```sh
 npm start
 ```
+```Pre Requisite, install heroku command line
+```https://www.heroku.com
+How to public in Heroku
+```Login in heroku
+# heroku login
+```Create  app in heroku
+# heroku create <NAME_APP>
+```Deploy app in Heroku
+# git push heroku
+
+```Configure Heroku Variables
+MONGO_URI
+JWT_SECRET
+PORT
