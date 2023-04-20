@@ -1,5 +1,9 @@
 # Jobster API
 
+Available in https://jobster-mhs.herokuapp.com/landing
+User: testUser@test.com
+Password: secret
+
 #### Starter
 
 The starter is a copy of jobs-api final project, just with additional data.
